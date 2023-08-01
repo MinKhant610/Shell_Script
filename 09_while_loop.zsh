@@ -8,5 +8,5 @@ i=1
 while [ $i -le $num ]
 do
 	echo "Hello world $i"
-i=`expr $i + 1`
+i=$(expr $i + 1)
 done
