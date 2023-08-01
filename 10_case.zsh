@@ -17,6 +17,6 @@ case $num in
 		echo "Welcome to Full Stack Developement Class";;
 	3)
 		echo "Welcome to Networking Class ";;
-	*)
+	*) #like defalut in C or other programming langauge
 		echo "Choose only 1 to 3 ";;
 esac
