@@ -5,10 +5,15 @@
 Date : Mon Jul 31 22:28:07 +0630 2023
 User Name : Min Khant
 Age : 19
-NRC code : 221964
+NRC code : 654321
 ----------------------------
 Date : Mon Jul 31 22:28:46 +0630 2023
 User Name : Aung Tun Kyaw
 Age : 19
 NRC code : 123456
+----------------------------
+Date : Tue Aug  1 16:16:26 +0630 2023
+User Name : OkkarMinMaung
+Age : 20
+NRC code : 221963
 ----------------------------
